@@ -1,3 +1,3 @@
-#Katalina Murrie's SQL Projects
+# Katalina Murrie's SQL Projects
 
-##Welcome to my SQL portfolio!
+## Welcome to my SQL portfolio!
